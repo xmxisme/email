@@ -25,7 +25,7 @@ public class Email {
     */
     public static List<String> code() {
         final String username = "1366042884@qq.com"; // 邮箱地址
-        final String password = "cwnsreclwwyrbaai"; // 邮箱密码
+        final String password = "nlll"; // 邮箱密码
 
         Properties props = new Properties();
 
